@@ -1,4 +1,6 @@
--- Copies updated content file from nopCommerce plugin source directory to plugin output directory on save
+# nop-plugin-file-copier
+
+Copies updated content file from nopCommerce plugin source directory to plugin output directory on save
 
 Steps:
 
